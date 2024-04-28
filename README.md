@@ -5,20 +5,17 @@
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes. Accordingly, they collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. In this challenge, I created the [Earthquake Visualization Toolkit and Earthquake Heatmap Toolkit](https://njamesgeorge1223.github.io/Earthquake-Visualization-with-Leaflet/) to visualize USGS data in a way that will allow them and other users to better educate the public and government organizations on issues facing our planet.
 
 ----
-<img width="2077" alt="Screenshot 2024-03-24 at 5 36 48 PM" src="https://github.com/njamesgeorge1223/Earthquake-Visualization-with-Leaflet/assets/152452572/1b668ce5-2c4f-4763-bb96-8725f7b941a3">
+<img width="2077" alt="earthquake1" src="https://github.com/njgeorge000158/Earthquake-Visualization-with-Leaflet/assets/137228821/ebd2e584-e4c3-439f-85d5-6b72027cc0e7">
 
-<img width="2075" alt="Screenshot 2024-03-24 at 5 37 39 PM" src="https://github.com/njamesgeorge1223/Earthquake-Visualization-with-Leaflet/assets/152452572/f3d90d5e-7855-4a13-8eb4-39b21d62342d">
+<img width="2075" alt="earthquake2" src="https://github.com/njgeorge000158/Earthquake-Visualization-with-Leaflet/assets/137228821/c3caf8c4-510a-419f-95dc-9d9a3c49b176">
 
-<img width="848" alt="Screenshot 2024-03-24 at 5 38 24 PM" src="https://github.com/njamesgeorge1223/Earthquake-Visualization-with-Leaflet/assets/152452572/4004132a-0ab2-4da4-870f-44274a04824b">
-
+<img width="848" alt="earthquake3" src="https://github.com/njgeorge000158/Earthquake-Visualization-with-Leaflet/assets/137228821/36d6a80e-f866-4061-9d54-f44e151006ef">
 ----
+<img width="2078" alt="earthquake4" src="https://github.com/njgeorge000158/Earthquake-Visualization-with-Leaflet/assets/137228821/972656fa-fa8f-44f2-98f8-671ef417bbbf">
 
-<img width="2078" alt="Screenshot 2024-03-24 at 5 39 31 PM" src="https://github.com/njamesgeorge1223/Earthquake-Visualization-with-Leaflet/assets/152452572/8c7a5b28-09df-41dd-8362-7ef89e8a555d">
+<img width="2077" alt="earthquake5" src="https://github.com/njgeorge000158/Earthquake-Visualization-with-Leaflet/assets/137228821/655b2e29-5a75-4ef2-9095-b5032f67ddec">
 
-<img width="2077" alt="Screenshot 2024-03-24 at 5 40 14 PM" src="https://github.com/njamesgeorge1223/Earthquake-Visualization-with-Leaflet/assets/152452572/8e555436-5fb4-45fd-8ace-f9e392f1b45b">
-
-<img width="528" alt="Screenshot 2024-03-24 at 5 40 53 PM" src="https://github.com/njamesgeorge1223/Earthquake-Visualization-with-Leaflet/assets/152452572/873e1848-b4f0-48f3-ac72-c851ce47fec4">
-
+<img width="528" alt="earthquake6" src="https://github.com/njgeorge000158/Earthquake-Visualization-with-Leaflet/assets/137228821/23df7d57-1066-418d-94f8-a8138240a220">
 ----
 
 To see the toolkits in action, click on the link or download and run the HTML file, index.html, with any browser, but make sure that the files and subfolders in the folder, /static, are also available.
