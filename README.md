@@ -1,3 +1,7 @@
+![earthquake](https://github.com/njgeorge000158/Earthquake-Visualization-with-Leaflet/assets/137228821/491d2b50-dff2-4d6d-aa3c-bbba3449be63)
+
+----
+
 # Earthquake Visualization with Leaflet
 
 ----
